@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonsarik
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Python and C++. Java next.
+- 🌱 I’m currently learning Python and C++. Java and some database management next.
 - 💞️ I’m looking to collaborate on anything that helps me improve.
 - 📫 How to reach me I'll get back to you on that.
 
